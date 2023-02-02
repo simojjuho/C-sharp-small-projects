@@ -1,0 +1,15 @@
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.csproj.AssemblyReference.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.GeneratedMSBuildEditorConfig.editorconfig
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.AssemblyInfoInputs.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.AssemblyInfo.cs
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.csproj.CoreCompileInputs.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/bin/Debug/net7.0/ChooseDrink
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/bin/Debug/net7.0/ChooseDrink.deps.json
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/bin/Debug/net7.0/ChooseDrink.runtimeconfig.json
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/bin/Debug/net7.0/ChooseDrink.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/bin/Debug/net7.0/ChooseDrink.pdb
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/refint/ChooseDrink.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.pdb
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ChooseDrink.genruntimeconfig.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/ChooseDrink/obj/Debug/net7.0/ref/ChooseDrink.dll
