@@ -1,0 +1,15 @@
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/bin/Debug/net7.0/Coordinates
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/bin/Debug/net7.0/Coordinates.deps.json
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/bin/Debug/net7.0/Coordinates.runtimeconfig.json
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/bin/Debug/net7.0/Coordinates.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/bin/Debug/net7.0/Coordinates.pdb
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.csproj.AssemblyReference.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.GeneratedMSBuildEditorConfig.editorconfig
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.AssemblyInfoInputs.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.AssemblyInfo.cs
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.csproj.CoreCompileInputs.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/refint/Coordinates.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.pdb
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/Coordinates.genruntimeconfig.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/Coordinates/obj/Debug/net7.0/ref/Coordinates.dll

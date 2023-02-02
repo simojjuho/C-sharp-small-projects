@@ -1,0 +1,15 @@
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/bin/Debug/net7.0/HelloStranger
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/bin/Debug/net7.0/HelloStranger.deps.json
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/bin/Debug/net7.0/HelloStranger.runtimeconfig.json
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/bin/Debug/net7.0/HelloStranger.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/bin/Debug/net7.0/HelloStranger.pdb
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.csproj.AssemblyReference.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.GeneratedMSBuildEditorConfig.editorconfig
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.AssemblyInfoInputs.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.AssemblyInfo.cs
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.csproj.CoreCompileInputs.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/refint/HelloStranger.dll
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.pdb
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/HelloStranger.genruntimeconfig.cache
+/home/juho/Asiakirjat/Koodaus/c_sharp_projects/HelloStranger/obj/Debug/net7.0/ref/HelloStranger.dll
